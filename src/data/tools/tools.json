@@ -1,4 +1,4 @@
 [
-  { "id": "5", "name": "Screwdriver", "price": "15" },
-  { "id": "7", "name": "hummer", "price": "70" }
+  { "id": "5", "name": "Screwdriver", "price": 15 },
+  { "id": "7", "name": "hummer", "price": 70 }
 ]

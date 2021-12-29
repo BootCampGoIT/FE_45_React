@@ -1,13 +1,14 @@
 import React from "react";
+import { HeaderStyled } from "./HeaderStyled";
 import Logo from "./logo/Logo";
 import Navigation from "./navigation/Navigation";
 
 const Header = () => {
   return (
-    <header style={{ display: "flex", justifyContent: "space-between" }}>
+    <HeaderStyled>
       <Logo />
       <Navigation />
-    </header>
+    </HeaderStyled>
   );
 };
 
